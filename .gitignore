@@ -4,6 +4,11 @@
 update.*.json
 strings/last-strings.json
 node_modules/*
+node_modules/
+evolve/main.js
+evolve/evolve.css
+wiki/wiki.js
+wiki/wiki.css
 docs
 dist
 *.map
