@@ -10168,7 +10168,7 @@
   "tab_supernatural": "초자연적",
   "true": "참",
   "false": "거짓",
-  "plus_resource": "+%0 %1 (자원)",
+  "plus_resource": "+%0 %1",
   "plus_resource_per": "+%0% %1/%2당",
   "plus_res_combo": "+%0 %2 생산, +%1 최대 %2",
   "plus_res_duo": "+%0 최대 %1/%2",
