@@ -12,3 +12,4 @@ wiki/wiki.css
 docs
 dist
 *.map
+.vercel
