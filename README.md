@@ -15,8 +15,7 @@
 
 ## 플레이
 
-- 원본 (영어): https://pmotschmann.github.io/Evolve/
-- 한국어 fork (Vercel): https://evolve-kr.vercel.app
+🎮 **한국어 라이브 데모**: https://evolve-kr.vercel.app
 
 ## 설치 & 실행
 
