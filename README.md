@@ -17,7 +17,7 @@
 
 ![한국어 게임 스크린샷](docs/screenshot-korean-game.png)
 
-🎮 **한국어 라이브 데모**: https://evolve-kr.vercel.app
+🎮 **한국어 라이브 데모**: https://sigco3111.github.io/evolve-kr
 
 ## 설치 & 실행
 
